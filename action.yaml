@@ -1,4 +1,4 @@
-name: paloaltonetworks/cov
+name: paloaltonetworksfork/cov
 
 description: Very simple action to run code coverage checking for go projects.
 
